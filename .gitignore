@@ -1,2 +1,4 @@
 # NODETUTORIALS OMISSIONS
-.txt
+*.txt
+.git/
+node_modules/
